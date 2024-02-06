@@ -227,3 +227,8 @@ body {
   line-height: 1.6; /* Межстрочный интервал */
   margin-bottom: 12px; /* Отступ снизу абзацев */
 }
+
+.social-icons h6{
+  padding: 0;
+  margin: 0;
+}
