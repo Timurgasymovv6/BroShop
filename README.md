@@ -1,2 +1,2 @@
-# BroShop.io
+# BroShop
 my first project-BroShop
